@@ -3,3 +3,5 @@ numpy
 selenium
 streamlit
 webdriver_manager
+chromium
+chromium-driver
