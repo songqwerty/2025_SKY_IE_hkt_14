@@ -1,0 +1,5 @@
+gurobipy
+numpy
+selenium
+streamlit
+webdriver_manager
